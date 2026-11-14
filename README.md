@@ -22,5 +22,4 @@ Change is constant across Earth's climate systems, but regional shifts can vary 
 
 ---
 
-### 🌐 Live Demo
-* Access the live application here: [Insert Live Streamlit URL Here]
+
